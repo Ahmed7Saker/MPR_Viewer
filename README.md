@@ -82,6 +82,7 @@ An informational popup appears on startup, detailing the interaction methods:
   - Crosshair navigation for synchronized slice updates.
 - **Sliders:** Use the contrast and brightness sliders to optimize visualization.
   ![MPR Viewer Screenshot](https://github.com/Ahmed7Saker/MPR_Viewer/blob/main/images/Screenshot%202025-01-22%20211423.png)
+For a demo of the MPR Viewer, check out this [YouTube Video](https://youtu.be/C3OWS3LOt-0?si=S33-Q6jLFudZ3JfO).
 
 
 ## Acknowledgments
